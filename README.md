@@ -1,7 +1,7 @@
 # Agam Dhull
 Github Domain Registry (IN)
 This Domain is Registered under Agam Dhull on the following Address:
-16, NEAR Goverment High School, Padha, Karnal (Haryana) 132001
+************************ Karnal (Haryana) 132001
 India
 
 To Upload Static Files (HTML CSS JS) 
