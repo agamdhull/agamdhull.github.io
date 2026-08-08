@@ -1,2 +1,10 @@
-# agamdhull.github.io
-$08$IN$AS
+# Agam Dhulk
+Github Domain Registry (IN)
+This Domain is Registered under Agam Dhull on the following Address:
+16, NEAR Goverment High School, Padha, Karnal (Haryana) 132001
+India
+
+To Upload Static Files (HTML CSS JS) 
+Upload your Files directly here and replace index.html with the code you want to act as an homepage
+
+-Divya Mittal (RH, Github) India
